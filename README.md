@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skovdev)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skovdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
