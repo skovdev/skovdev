@@ -1,11 +1,11 @@
 
-## Hi there 👋, i'm Stanislav Kovalenko
+### Hi there 👋, i'm Stanislav Kovalenko
 
-## &#x1f4c8; GitHub Stats
+# &#x1f4c8; GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skovdev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-## Top languages
+# &#11088; Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skovdev)](https://github.com/anuraghazra/github-readme-stats)
 
