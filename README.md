@@ -1,5 +1,9 @@
 
-### Hi there 👋, i'm Stanislav Kovalenko
+### Hi there 👋, i'm Stanislav
+
+## I’m a Full-Stack Java Software Developer
+- 🔭 I'm currently working at CS Ltd
+- 🌱 I'm currently learning Kotlin progrramming language
 
 # &#x1f4c8; GitHub Stats
 
