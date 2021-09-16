@@ -2,6 +2,7 @@
 ### Hi there 👋, I'm Stanislav and I’m Full-Stack Java Software Developer
 - 🔭 I'm currently working at CS Ltd
 - 🌱 I'm currently learning Kotlin progrramming language
+- 💬 Ask me about anything and i'm happy to help
 
 # &#x1f4c8; GitHub Stats
 
