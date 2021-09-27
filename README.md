@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Stanislav and I’m Full-Stack Java Software Developer
+### Hi there 👋, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 - 🔭 I'm currently working at CS Ltd
 - 🌱 I'm currently learning Kotlin progrramming language
 - 💬 Ask me about Java, Kotlin, JavaScript and i'm happy to help
