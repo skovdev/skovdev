@@ -1,10 +1,10 @@
 
-## Hi there 👋, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
+## &#x270B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 - 🔭 I'm currently working at CS Ltd
 - 🌱 I'm currently learning Kotlin progrramming language
 - 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Stats
 
 <a href="https://github.com/skovdev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skovdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
