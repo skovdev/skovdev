@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Kotlin progrramming language
 - 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
 
-## Connect with me
+## &#x1F91D; Connect with me
 
 <p>
 	<a href="https://www.linkedin.com/in/stanislav-kovalenko/">
