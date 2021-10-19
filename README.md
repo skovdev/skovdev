@@ -4,6 +4,23 @@
 - 🌱 I'm currently learning Kotlin progrramming language
 - 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
 
+## Connect with me
+
+<p>
+	<a href="https://www.linkedin.com/in/stanislav-kovalenko/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:stanislav.kov.1996@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="#">
+		<img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/>
+	</a>
+	<a href="#">
+		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+	</a>
+</p>
+
 ## &#x1f4c8; Stats
 
 <a href="https://github.com/skovdev">
@@ -34,21 +51,3 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## Connect with me
-
-<p>
-	<a href="https://www.linkedin.com/in/stanislav-kovalenko/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:stanislav.kov.1996@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	<a href="#">
-		<img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/>
-	</a>
-	<a href="#">
-		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-	</a>
-</p>
