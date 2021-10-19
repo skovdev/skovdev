@@ -1,5 +1,5 @@
 
-## &#x270B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
+## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 - 🔭 I'm currently working at CS Ltd
 - 🌱 I'm currently learning Kotlin progrramming language
 - 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
