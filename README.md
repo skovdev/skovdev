@@ -7,26 +7,27 @@
 ## &#x1F91D; Connect with me
 
 <p>
-	<a href="https://www.linkedin.com/in/stanislav-kovalenko/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:stanislav.kov.1996@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	<a href="skype:kov.stanislav.2601?chat">
-		<img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/>
-	</a>
-	<a href="https://t.me/mynamestanislav">
-		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-	</a>
+    <a href="https://www.linkedin.com/in/stanislav-kovalenko/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:stanislav.kov.1996@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="skype:kov.stanislav.2601?chat">
+        <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/>
+    </a>
+    <a href="https://t.me/mynamestanislav">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
 </p>
 
 ## &#x1f4c8; Stats
 
-<a href="https://github.com/skovdev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skovdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skovdev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p>
+    <a href="https://github.com/skovdev">
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skovdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skovdev&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 </p>
 	
 ## &#x1F4BB; Tech Stack
