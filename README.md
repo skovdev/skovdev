@@ -4,10 +4,6 @@
 - 🌱 I'm currently learning Kotlin progrramming language
 - 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
 
-	<div id="child2">
-		<img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif"/>
-
-	</div>
 ## &#x1F91D; Connect with me
 
 <p>
@@ -24,6 +20,8 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif"/>
 
 ## &#x1f4c8; Stats
 
