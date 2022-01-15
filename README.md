@@ -1,8 +1,17 @@
 
 ## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
-- 🔭 I'm currently working at SoftServe
-- 🌱 I'm currently learning Kotlin progrramming language
-- 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
+
+<div id="parent" style="display: flex; justify-content: center">
+    <div id="child1" style="font-family: Arial;">
+<p> - 🔭 I'm currently working at SoftServe</p>
+<p> - 🌱 I'm currently learning Kotlin progrramming language</p>
+<p> - 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help</p>
+    </div>
+    <div id="child2">
+     <img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif"/>
+
+    </div>
+</div>
 
 ## &#x1F91D; Connect with me
 
@@ -20,8 +29,6 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif"/>
 
 ## &#x1f4c8; Stats
 
