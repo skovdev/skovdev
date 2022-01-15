@@ -7,9 +7,6 @@
         <p> 🌱 I'm currently learning Kotlin progrramming language</p>
         <p> 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help</p>
    </div>
-   <div id="gif">
-       <img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif" />
-   </div>
 </div>
 
 ## &#x1F91D; Connect with me
@@ -28,7 +25,7 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </p>
-
+													
 ## &#x1f4c8; Stats
 
 <p>
@@ -37,6 +34,10 @@
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skovdev&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
+
+## &#x1F4C8; Activity
+
+<img src="https://activity-graph.herokuapp.com/graph?username=skovdev&theme=minimal"/>
 	
 ## &#x1F4BB; Tech Stack
 
