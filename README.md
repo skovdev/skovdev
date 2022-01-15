@@ -1,12 +1,12 @@
 
 ## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 
+<img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif" />
+
 🔭 I'm currently working at SoftServe
 🌱 I'm currently learning Kotlin progrramming language
 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help
   
-<img src="https://user-images.githubusercontent.com/68754813/149598519-be5f6e51-4c16-4996-a3db-1e9e896ad13f.gif" />
-
 
 ## &#x1F91D; Connect with me
 
