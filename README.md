@@ -1,7 +1,7 @@
 
 ## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 
-<div id="about-me"">
+<div id="about-me">
     <p> 🔭 I'm currently working at SoftServe</p>
     <p> 🌱 I'm currently learning Kotlin progrramming language</p>
     <p> 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help</p>
@@ -28,7 +28,7 @@
 
 <p>
     <a href="https://github.com/skovdev">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skovdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api? username=skovdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skovdev&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
