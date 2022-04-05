@@ -2,7 +2,7 @@
 ## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 
 <div id="about-me">
-    <p> 🔭 I'm currently working at SoftServe</p>
+    <p> 🔭 I'm currently working at SoftServe as Team Lead Java Software Developer</p>
     <p> 🌱 I'm currently learning Kotlin progrramming language</p>
     <p> 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help</p>
 </div>
