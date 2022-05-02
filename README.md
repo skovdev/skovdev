@@ -4,7 +4,7 @@
 <div id="about-me">
     <p> 🔭 I'm currently working at SoftServe as Team Lead Java Software Developer</p>
     <p> 🌱 I'm currently learning Kotlin progrramming language</p>
-    <p> 💬 Ask me about Java, Kotlin, JavaScript and I'm happy to help</p>
+    <p> 💬 Ask me about Java, JavaScript and I'm happy to help</p>
 </div>
 
 ## &#x1F91D; Connect with me
@@ -40,7 +40,6 @@
 ## &#x1F4BB; Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-C9C9C9?style=for-the-badge&logo=spring-boot)								
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
