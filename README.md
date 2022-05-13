@@ -3,7 +3,6 @@
 
 <div id="about-me">
     <p> 🔭 I'm currently working at SoftServe as Team Lead/Middle Java Software Developer</p>
-    <p> 🌱 I'm currently learning Kotlin progrramming language</p>
     <p> 💬 Ask me about Java, JavaScript and I'm happy to help</p>
 </div>
 
