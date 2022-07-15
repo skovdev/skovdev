@@ -22,7 +22,7 @@
     </a>
 </p>
 													
-## &#x1f4c8; My stats
+## &#x1f4c8; Stats
 
 <p>
     <a href="https://github.com/skovdev">
