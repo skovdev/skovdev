@@ -20,6 +20,9 @@
     <a href="https://t.me/mynamestanislav">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
+    <a href="https://skov.dev">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
 </p>
 													
 ## &#x1f4c8; Stats
