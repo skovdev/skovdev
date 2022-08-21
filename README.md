@@ -3,6 +3,7 @@
 
 <div id="about-me">
     <p> &#x1F52D; I'm currently working at SoftServe as Middle Java Software Developer</p>
+    <p> &#x1F4AC; Ask me about anything, I am happy to help</p>
 </div>
 
 ## &#x1F91D; Connect with me
