@@ -1,5 +1,5 @@
 
-## &#x1F44B; I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
+## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Full-Stack Java Software Developer
 
 <div id="about-me">
     <p> &#x1F52D; I'm currently working at SoftServe as Strong Middle Java Software Developer</p>
