@@ -31,10 +31,6 @@
 	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skovdev&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
-
-## &#x1F504; Activity
-
-<img src="https://activity-graph.herokuapp.com/graph?username=skovdev&theme=minimal"/>
 	
 ## &#x1F4BB; Tech Stack
 
