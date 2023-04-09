@@ -2,7 +2,7 @@
 ## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Middle Java Software Developer
 
 <div id="about-me">
-    <p> &#x1F52D; I'm currently working at SoftServe as Strong Middle Java Software Developer</p>
+    <p> &#x1F52D; I'm currently working at SoftServe as Middle Java Software Developer</p>
     <p> &#x1F4D6; I'm learning Java Concurrency, Microservices, Docker
     <p> &#x1F4AC; Ask me about anything, I am happy to help</p>
 </div>
