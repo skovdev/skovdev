@@ -1,8 +1,8 @@
 
-## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Senior Java Software Developer
+## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Senior Java Software Engineer
 
 <div id="about-me">
-    <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Developer</p>
+    <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
     <p> &#x1F4D6; I'm learning Microservices, Java NIO
 </div>
 
