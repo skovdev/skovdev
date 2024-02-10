@@ -24,12 +24,9 @@
 </p>
 													
 ## &#x1f4c8; Stats
-
-<p>
-    <a href="https://github.com/skovdev">
-	    <img src="https://myreadme.vercel.app/api/embed/skovdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="skovdev-readme" />
-    </a>
-</p>
+![skovdev's Stats](https://github-readme-stats.vercel.app/api?username=skovdev&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![skovdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skovdev&theme=dark&hide_border=false)
+![skovdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skovdev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 	
 ## &#x1F4BB; Tech Stack
 
