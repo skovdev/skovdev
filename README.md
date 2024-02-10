@@ -24,7 +24,6 @@
 </p>
 													
 ## &#x1f4c8; Stats
-![skovdev's Stats](https://github-readme-stats.vercel.app/api?username=skovdev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![skovdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skovdev&theme=dark&hide_border=false)
 ![skovdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skovdev&theme=dark&show_icons=true&hide_border=false&layout=compact)
 	
