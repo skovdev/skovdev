@@ -26,9 +26,9 @@
 ## &#x1f4c8; Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skovdev&theme=default" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skovdev&theme=default" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skovdev&theme=default" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skovdev&theme=dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skovdev&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skovdev&theme=dark" alt="Productive Time" />
 </p>
 </p>
 	
