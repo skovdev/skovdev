@@ -24,11 +24,14 @@
 </p>
 													
 ## &#x1f4c8; Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skovdev&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skovdev&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skovdev&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skovdev&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skovdev&theme=dark)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skovdev&theme=dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skovdev&theme=dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skovdev&theme=dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skovdev&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skovdev&theme=dark" alt="Productive Time" />
+</p>
 	
 ## &#x1F4BB; Tech Stack
 
