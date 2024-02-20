@@ -3,7 +3,7 @@
 
 <div id="about-me">
     <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
-    <p> &#x1F4D6; I'm learning Software Design and Architecture, NoSQL
+    <p> &#x1F4D6; I'm learning Software Design and Architecture
 </div>
 
 ## &#x1F91D; Connect with me
