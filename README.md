@@ -7,7 +7,7 @@ I'm <b>Stanislav Kovalenko</b> and I’m <b>Senior Java Software Engineer</b>. A
 
 ## &#x1F575; About me 
 
-<p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
+<p> &#x1F52D; I'm currently working at <b>SoftServe</b> as <b>Senior Java Software Engineer</b></p>
 <p> &#x1F60D; I love writing code and learning new technologies</p>
 <p> &#x1F91A; Enjoy to do programming and sharing knowledge </p>
 <p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>
