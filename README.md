@@ -2,7 +2,7 @@
 ## &#x1F44B; Hi there, I'm Stanislav Kovalenko and I’m Senior Java Software Engineer
 
 <p>
-As a <b>Senior Software Engineer</b> with extensive <b>Java</b> experience, I'm highly skilled in problem-solving and enjoy taking on challenges. I write well-designed, testable, and efficient code. I quickly learn new technologies and succeed in both team and self-directed settings. My focus is on efficient design, performance optimization, and high code quality. I am passionate about continuous improvement and collaboration, always striving to enhance my skills and contribute effectively to every project
+As a Senior Software Engineer with extensive Java experience, I'm highly skilled in problem-solving and enjoy taking on challenges. I write well-designed, testable, and efficient code. I quickly learn new technologies and succeed in both team and self-directed settings. My focus is on efficient design, performance optimization, and high code quality. I am passionate about continuous improvement and collaboration, always striving to enhance my skills and contribute effectively to every project
 </p>
 
 ## &#x1F575; About me 
