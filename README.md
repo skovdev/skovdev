@@ -5,14 +5,12 @@
 As a <b>Senior Software Engineer</b> with extensive <b>Java</b> experience, I'm highly skilled in problem-solving and enjoy taking on challenges. I write well-designed, testable, and efficient code. I quickly learn new technologies and succeed in both team and self-directed settings. My focus is on efficient design, performance optimization, and high code quality. I am passionate about continuous improvement and collaboration, always striving to enhance my skills and contribute effectively to every project
 </p>
 
-## About me 
+## &#x1F575; About me 
 
-<div id="about-me">
-    <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
-    <p> &#x1F60D; I love writing code and learning new technologies</p>
-    <p>	&#x1F91A; Enjoy to do programming and sharing knowledge </p>
-    <p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>
-</div>
+<p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
+<p> &#x1F60D; I love writing code and learning new technologies</p>
+<p> &#x1F91A; Enjoy to do programming and sharing knowledge </p>
+<p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>
 
 ## &#x1F91D; Connect with me
 
