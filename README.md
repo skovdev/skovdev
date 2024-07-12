@@ -1,5 +1,3 @@
-<a href="https://ibb.co/kMfBW1F"><img src="https://i.ibb.co/stGRMHr/Screenshot-from-2024-07-13-00-25-21.png" alt="Screenshot-from-2024-07-13-00-25-21" border="0"></a>
-
 ## &#x1F44B; Hi there
 
 <p>
