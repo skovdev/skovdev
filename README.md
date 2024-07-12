@@ -3,7 +3,8 @@
 
 <div id="about-me">
     <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
-    <p>✌️ Enjoy to do programming and sharing knowledge </p>
+    <p>	&#x1F91A; Enjoy to do programming and sharing knowledge </p>
+    <p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>
 </div>
 
 ## &#x1F91D; Connect with me
