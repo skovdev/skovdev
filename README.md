@@ -8,7 +8,6 @@ I'm Stanislav Kovalenko and I’m Senior Java Software Engineer. As Senior Softw
 
 <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer</p>
 <p> &#x1F60D; I love writing code and learning new technologies</p>
-<p> &#x1F91A; Enjoy to do programming and sharing knowledge </p>
 <p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>
 
 ## &#x1F91D; Connect with me
