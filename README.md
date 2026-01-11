@@ -26,16 +26,7 @@ I'm <strong>Stanislav Kovalenko</strong> and I’m <strong>Senior Java Software 
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
 </p>
-													
-## &#x1f4c8; Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skovdev&theme=dark" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skovdev&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skovdev&theme=dark" alt="Productive Time" />
-</p>
-</p>
-	
+											
 ## &#x1F4BB; Tech Stack
 
 <p align="left">
