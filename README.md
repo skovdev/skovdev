@@ -19,9 +19,6 @@ I'm <strong>Stanislav Kovalenko</strong> and I’m <strong>Senior Java Software 
     <a href="mailto:stanislav.kov.1996@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="skype:kov.stanislav.2601?chat">
-        <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/>
-    </a>
     <a href="https://t.me/mynamestanislav">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
