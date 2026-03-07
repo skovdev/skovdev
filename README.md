@@ -14,13 +14,13 @@ I'm <strong>Stanislav Kovalenko</strong> and I’m <strong>Senior Java Software 
 
 <p>
     <a href="https://www.linkedin.com/in/stanislav-kovalenko/">
-        <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=transparent" />
+        <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&showText=true&textAlignment=horizontal&size=40" />
     </a>
     <a href="mailto:stanislav.kov.1996@gmail.com">
-	<img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&bg=transparent" />
+	<img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&showText=true&textAlignment=horizontal&size=40" />
     </a>
     <a href="https://t.me/mynamestanislav">
-        <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&bg=transparent"/>
+        <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&showText=true&textAlignment=horizontal&size=40"/>
     </a>
 </p>
 										
