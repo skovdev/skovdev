@@ -13,14 +13,14 @@ I'm <strong>Stanislav Kovalenko</strong> and I’m <strong>Senior Java Software 
 ## &#x1F91D; Connect with me
 
 <p>
-    <a href="https://www.linkedin.com/in/stanislav-kovalenko/">
-        <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&showText=true&textAlignment=horizontal&size=40" />
-    </a>
-    <a href="mailto:stanislav.kov.1996@gmail.com">
-	<img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&showText=true&textAlignment=horizontal&size=40" />
-    </a>
-    <a href="https://t.me/mynamestanislav">
-        <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&showText=true&textAlignment=horizontal&size=40"/>
-    </a>
+  <a href="https://www.linkedin.com/in/stanislav-kovalenko/">
+	<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstanislav-kovalenko%2F" alt="linkedin" />
+  </a>
+  <a href="mailto:stanislav.kov.1996@gmail.com">
+	<img src="https://www.readmecodegen.com/api/social-icon?name=gmail&link=mailto%3Astanislav.kov.1996%40gmail.com" alt="gmail" />
+  </a>
+  <a href="https://t.me/mynamestanislav">
+	<img src="https://www.readmecodegen.com/api/social-icon?name=telegram&link=https%3A%2F%2Ft.me%2Fmynamestanislav" alt="telegram" />
+  </a>
 </p>
 										
