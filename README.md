@@ -8,13 +8,4 @@ I'm <strong>Stanislav Kovalenko</strong> and I’m <strong>Senior Java Software 
 
 <p> &#x1F52D; I'm currently working at SoftServe as Senior Java Software Engineer and Intelligence Engineer</p>
 <p> &#x1F60D; I love writing code and learning new technologies</p>
-<p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>
-
-## &#x1F91D; Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/stanislav-kovalenko/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstanislav-kovalenko%2F" alt="linkedin" /></a>
-  <a href="mailto:stanislav.kov.1996@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&link=mailto%3Astanislav.kov.1996%40gmail.com" alt="gmail" /></a>
-  <a href="https://t.me/mynamestanislav"><img src="https://www.readmecodegen.com/api/social-icon?name=telegram&link=https%3A%2F%2Ft.me%2Fmynamestanislav" alt="telegram" /></a>
-</p>
-										
+<p> &#x1F4E7; Reach me anytime: <a href="mailto:mail@skov.dev">mail@skov.dev</a></p>							
